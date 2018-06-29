@@ -7,4 +7,6 @@
  */
 
 echo "HELLO WORLD";
+echo "Hello is Hayate How are you?";
+
 ?>
