@@ -6,5 +6,8 @@
  * and open the template in the editor.
  */
 
-echo "HELLO WORLD2";
+echo "HELLO WORLD";
+echo "Hello is Hayate How are you?";
+
 ?>
+
